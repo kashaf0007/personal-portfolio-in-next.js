@@ -43,7 +43,6 @@ const Project = () => {
           </div>
         </div>
       </div>
-
       <div className="lg:w-1/3 sm:w-1/2 p-4">
         <div className="flex relative">
           <Image
