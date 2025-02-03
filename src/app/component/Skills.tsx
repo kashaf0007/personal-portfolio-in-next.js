@@ -79,7 +79,7 @@ const Skills = () => {
       </div>
     </div>
   </div>
-</section>git 
+</section>
     </div>
   )
 }

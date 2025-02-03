@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
+
 const Project = () => {
   return (
     <div id='projects' className='bg-black'>
